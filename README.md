@@ -1,1 +1,1 @@
-Created the frontend of the web app using ReactJS
+Created the frontend of the web app using ReactJS and Bootstrap
